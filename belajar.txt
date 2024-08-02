@@ -1,2 +1,3 @@
 Belajar Git Hub bersama sandhika galih
 1.belajar selama 5 bulan dengan serius
+2.mencoba menambahkan repo
