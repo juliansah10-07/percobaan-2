@@ -1,5 +1,7 @@
 saya coba saja
 2.olahraga rutin
 3.belajar bahasa inggris
-4.belajar php
- ^ membuat web sederhana dan fitur crud
+4.php
+5.js 
+ ^ membuat web sederhana dan menambahkan fitur crud
+
